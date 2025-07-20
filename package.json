@@ -1,0 +1,18 @@
+{
+  "name": "ssrfpico",
+  "version": "1.0.0",
+  "description": "SSRF Pico Application",
+  "main": "dist/server/server.mjs",
+  "scripts": {
+    "start": "node dist/server/server.mjs",
+    "dev": "nodemon server/server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
+
