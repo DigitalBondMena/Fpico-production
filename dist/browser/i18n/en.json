@@ -187,6 +187,8 @@
   "chairmanMessage.title.section": "chairman message",
   "contact-us.blogs": "FPICO - Blogs",
   "contact-us.blogs-desc": "FPICO - Blogs",
+  "privacy-policy.title": "FPICO - PRIVACY POLICY",
+  "privacy-policy.title-desc": "FPICO - PRIVACY POLICY",
   "contact-us.title": "FPICO - CONTACT US",
   "contact-us.title-desc": "Reach out to us for any queries or support.",
   "footer.col-3.data": "          <ul class=\"list-unstyled p-0 m-0\">\n            <li class=\"text-lighter mb-2\">new builds</li>\n            <li class=\"text-lighter mb-2\">custom builds</li>\n            <li class=\"text-lighter mb-2\">project management</li>\n          </ul>",
@@ -198,7 +200,9 @@
   "footer.col02.row01": "about us",
   "footer.col02.row02": "services",
   "footer.col02.row03": "projects",
+
   "footer.col02.row04": "contact us",
+  "footer.col02.row05": "privacy policy",
   "footer.col02.title": "quick links",
   "footer.col04.address": "king abdulaziz rd, alyasmin, riyadh 13322",
   "footer.col04.mobile01": "+966 055 820 0003",
