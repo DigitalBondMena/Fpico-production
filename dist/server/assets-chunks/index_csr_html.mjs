@@ -70,6 +70,6 @@ export default `<!DOCTYPE html>
   <body ngcm="">
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSPSW4TP" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
     <app-root></app-root>
-  <link rel="modulepreload" href="chunk-34JMW7KB.js"><link rel="modulepreload" href="chunk-LZ4XI5XQ.js"><link rel="modulepreload" href="chunk-UJMKAHFN.js"><link rel="modulepreload" href="chunk-LP2ZXENV.js"><link rel="modulepreload" href="chunk-E6ELX2QH.js"><link rel="modulepreload" href="chunk-AP6RCGTF.js"><link rel="modulepreload" href="chunk-6RZ5FQCF.js"><link rel="modulepreload" href="chunk-XH3Z34EW.js"><link rel="modulepreload" href="chunk-L2Y52APH.js"><link rel="modulepreload" href="chunk-TK33YXTD.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-GK2ZQW2A.js" type="module"></script></body>
+  <link rel="modulepreload" href="chunk-34JMW7KB.js"><link rel="modulepreload" href="chunk-LZ4XI5XQ.js"><link rel="modulepreload" href="chunk-UJMKAHFN.js"><link rel="modulepreload" href="chunk-LP2ZXENV.js"><link rel="modulepreload" href="chunk-E6ELX2QH.js"><link rel="modulepreload" href="chunk-AP6RCGTF.js"><link rel="modulepreload" href="chunk-6RZ5FQCF.js"><link rel="modulepreload" href="chunk-XH3Z34EW.js"><link rel="modulepreload" href="chunk-L2Y52APH.js"><link rel="modulepreload" href="chunk-TK33YXTD.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-EKXVT4QZ.js" type="module"></script></body>
 </html>
 `;
