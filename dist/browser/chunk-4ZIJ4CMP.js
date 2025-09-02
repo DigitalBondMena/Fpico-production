@@ -1,1 +1,0 @@
-import{c as s}from"./chunk-V6Z4ULGI.js";import"./chunk-457Y7HI7.js";import{Jb as n,kb as t}from"./chunk-GBIAQEPK.js";var p=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-blogs"]],decls:1,vars:0,template:function(e,a){e&1&&n(0,"router-outlet")},dependencies:[s],encapsulation:2})};export{p as BlogsComponent};
