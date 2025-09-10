@@ -1,4 +1,42 @@
 User-agent: *
 Disallow: /en/
 
+Disallow: /about-us-page/
+Disallow: /about-us/
+Disallow: /contact_us_page/
+Disallow: /contact-us/
+Disallow: /contactus/
+Disallow: /projects-page/
+Disallow: /services-page/
+Disallow: /details/
+Disallow: /DownloadSection/
+Disallow: /footer/
+Disallow: /hero/
+Disallow: /my-fav.ico/
+Disallow: /national-day-img/
+Disallow: /not-found/
+Disallow: /see_more/
+Disallow: /social_media_icons/
+Disallow: /svgs/
+Disallow: /fonts/
+Disallow: /i18n/
+Disallow: /images/
+
+# Disallow specific invalid URL patterns
+Disallow: /about-us-page
+Disallow: /about-us
+Disallow: /contact_us_page
+Disallow: /contact-us
+Disallow: /contactus
+Disallow: /projects-page
+Disallow: /services-page
+Disallow: /details
+Disallow: /DownloadSection
+Disallow: /footer
+Disallow: /hero
+Disallow: /my-fav.ico
+Disallow: /national-day-img
+Disallow: /not-found
+Disallow: /images
+
 Sitemap: https://fpico.org/sitemap.xml
