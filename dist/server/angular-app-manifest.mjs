@@ -110,8 +110,8 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 16815, hash: '97bc9b3a789d23b9899d5642672e9a91202d5ceb05a1511fa8af6506d3c4e6b8', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 5225, hash: '1937ed3858b8efa23f006aa1f9f2199e02e83ed5d28dc6f4ce208ff15a5589c7', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 16815, hash: '3af378d345b08772852f1b1874c3ed74660b35c8d63efd2c2fbd694d0252677e', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 5225, hash: 'e90e97c1aa9bb1ba90b513606f31808eb339304ac748cc1e9bef9f3923c85dab', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
     'styles-CTOAILB3.css': {size: 147728, hash: '1fH/RJ78urY', text: () => import('./assets-chunks/styles-CTOAILB3_css.mjs').then(m => m.default)}
   },
 };
