@@ -83,6 +83,6 @@ export default `<!DOCTYPE html>
       ></iframe
     ></noscript>
     <app-root></app-root>
-  <link rel="modulepreload" href="chunk-YKC6KIHJ.js"><link rel="modulepreload" href="chunk-6HAT7DI6.js"><link rel="modulepreload" href="chunk-7XIYRLIX.js"><link rel="modulepreload" href="chunk-7C2FAFFS.js"><link rel="modulepreload" href="chunk-PH37XQ4H.js"><link rel="modulepreload" href="chunk-VSQT4DNM.js"><link rel="modulepreload" href="chunk-WTKR42P5.js"><link rel="modulepreload" href="chunk-O57JHJMK.js"><link rel="modulepreload" href="chunk-LNFPXN3U.js"><link rel="modulepreload" href="chunk-O3PHHQXF.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-LFXQUEZG.js" type="module"></script></body>
+  <link rel="modulepreload" href="chunk-YKC6KIHJ.js"><link rel="modulepreload" href="chunk-6HAT7DI6.js"><link rel="modulepreload" href="chunk-7XIYRLIX.js"><link rel="modulepreload" href="chunk-7C2FAFFS.js"><link rel="modulepreload" href="chunk-PH37XQ4H.js"><link rel="modulepreload" href="chunk-VSQT4DNM.js"><link rel="modulepreload" href="chunk-WTKR42P5.js"><link rel="modulepreload" href="chunk-O57JHJMK.js"><link rel="modulepreload" href="chunk-LNFPXN3U.js"><link rel="modulepreload" href="chunk-O3PHHQXF.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-MAVH6DO2.js" type="module"></script></body>
 </html>
 `;
