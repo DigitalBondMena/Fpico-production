@@ -1,1 +1,0 @@
-import{a}from"./chunk-QBL57YUQ.js";import"./chunk-VAJG4RK3.js";import"./chunk-HLVMDQU7.js";import"./chunk-GEPHAUQD.js";import"./chunk-6CWGHMXK.js";import"./chunk-6Z22N6HB.js";export{a as KOurPartnersComponent};

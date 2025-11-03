@@ -27,93 +27,90 @@ export default {
   {
     "renderMode": 0,
     "preload": [
-      "chunk-ZT66QHGV.js",
-      "chunk-G2XPW23R.js",
-      "chunk-ALESQMBT.js",
-      "chunk-JJ6X5UTQ.js"
+      "chunk-ZZHCOPO3.js",
+      "chunk-XRS23MC2.js",
+      "chunk-M2HGCAMV.js",
+      "chunk-GQWLXHB7.js"
     ],
     "route": "/*/projects"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-44LXX7W5.js",
-      "chunk-EEFPPZVE.js",
-      "chunk-JJ6X5UTQ.js"
+      "chunk-ZG6HPEYV.js",
+      "chunk-AORSZD5S.js",
+      "chunk-GQWLXHB7.js"
     ],
     "route": "/*/projects-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-LIWMOA2H.js",
-      "chunk-JJ6X5UTQ.js"
+      "chunk-C7SQJOND.js",
+      "chunk-GQWLXHB7.js"
     ],
     "route": "/*/services"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-W2AU64PP.js",
-      "chunk-EEFPPZVE.js",
-      "chunk-JJ6X5UTQ.js"
+      "chunk-JTLLBJDW.js",
+      "chunk-AORSZD5S.js",
+      "chunk-GQWLXHB7.js"
     ],
     "route": "/*/services-details/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-ABDPEVJL.js",
-      "chunk-WN3LCT65.js",
-      "chunk-4XYQOR4K.js",
-      "chunk-QBL57YUQ.js",
-      "chunk-G2XPW23R.js",
-      "chunk-JJ6X5UTQ.js"
+      "chunk-3TEUTMLD.js",
+      "chunk-NWONCT5N.js",
+      "chunk-XC7AJRJF.js",
+      "chunk-EAPK54H7.js",
+      "chunk-XRS23MC2.js",
+      "chunk-GQWLXHB7.js"
     ],
     "route": "/*/about-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-QNDTCYUB.js",
-      "chunk-WN3LCT65.js",
-      "chunk-ALESQMBT.js"
+      "chunk-FKZ6XV6A.js",
+      "chunk-NWONCT5N.js",
+      "chunk-M2HGCAMV.js"
     ],
     "route": "/*/contact-us"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-55OHMURK.js"
+      "chunk-ICBXBW7B.js"
     ],
     "route": "/*/blogs"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-55OHMURK.js"
+      "chunk-ICBXBW7B.js"
     ],
     "route": "/*/blogs/*"
   },
   {
     "renderMode": 0,
     "preload": [
-      "chunk-AEKDALYQ.js"
+      "chunk-6G34DVXV.js"
     ],
     "route": "/*/privacy-policy"
   },
   {
     "renderMode": 0,
-    "preload": [
-      "chunk-O55YFPQM.js"
-    ],
-    "route": "/*/**"
+    "route": "/**"
   }
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 16815, hash: 'e919c0c42da685a8a6e1bb2a11b1dcc742e6a3d8e842f361a0808f02e4ed34af', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 5225, hash: 'aed355134137cc828b039917399cadf4d3fa802179050b53b7d641ed9f3905cd', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 16759, hash: '1e7f3756918183cb1f4f5278e626defc5526a84a53c170e2b649de249fda82b4', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 5168, hash: '75b373c42d6954d93ab694ccb34f5e2e053bc5b2b0f5460cab65a12893ce4e5d', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
     'styles-YOGF3AU4.css': {size: 147703, hash: 'yEIC6SSA34s', text: () => import('./assets-chunks/styles-YOGF3AU4_css.mjs').then(m => m.default)}
   },
 };
